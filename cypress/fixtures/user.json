@@ -1,5 +1,10 @@
 {
     "firstName": "Dzikril",
     "lastName": "Auliya",
-    "password": "StrongPassword123"
+    "password": "StrongPassword123",
+    "newFirstName" : "Ahmad Rais",
+    "newLastName" : "Jaya",
+    "newEmail" : "rais@gmail.com",
+    "newInvalidEmail" : "raisgmail.com",
+    "newInvalidPass" : "password123"
   }
