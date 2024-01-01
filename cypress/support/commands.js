@@ -114,6 +114,13 @@
      });
    });
 
+   Cypress.Commands.add('login',()=>{
+    cy.get('.panel > .header > .authorization-link > a').click()
+    cy.get('#email').type('adhytia9@gmail.com')
+    cy.get('#pass').type('StrongPassword123')
+    cy.get('#send2').click()
+   })
+
 // -- This is a parent command --
 // Cypress.Commands.add('login', (email, password) => { ... })
 //
