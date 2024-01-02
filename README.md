@@ -2,7 +2,7 @@
 *Automation test using cypress on the website https://magento.softwaretestingboard.com* 
 
 1. create account                   :: Dzikril   
-2. login                            ::   
+2. login                            :: Nella Bidayatus
 3. edit account                     :: Ahmad Rais  
 4. Edit address                     :: 
 5. Choose product                   ::  
